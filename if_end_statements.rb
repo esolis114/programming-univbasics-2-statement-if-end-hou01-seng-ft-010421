@@ -1,3 +1,3 @@
 run_code_inside = true 
 puts "Code before if...end" 
-if 
+if run_code_inside
